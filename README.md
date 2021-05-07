@@ -11,7 +11,7 @@ intern-training-midterm2021
 ## List
 Assignments | Status
 ------------ | -------------
-01 - git | - [x]01-git
-02 - vim | - []02-vim
+01 - git | - [x]
+02 - vim | - []
 
 
