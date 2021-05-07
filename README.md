@@ -6,3 +6,4 @@ intern-training-midterm2021
 - Account: http://github.com/thhtruc
 [GitHub](http://github.com)
 
+![GitHub Logo] (https://github.com/thhtruc/demo-git/issues/1#issue-878241939) 
