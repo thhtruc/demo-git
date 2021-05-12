@@ -1,0 +1,1 @@
+print('check if number is odd or even')
